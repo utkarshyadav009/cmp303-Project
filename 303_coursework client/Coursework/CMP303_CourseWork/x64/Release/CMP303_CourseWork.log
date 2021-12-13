@@ -1,0 +1,272 @@
+﻿  Animation.cpp
+  AudioManager.cpp
+  Collision.cpp
+  GameObject.cpp
+  Input.cpp
+  MusicObject.cpp
+  SoundObject.cpp
+  TileMap.cpp
+  Vector.cpp
+  Level.cpp
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(48,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(48,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(221,42): warning C4305: '*=': truncation from 'double' to 'float'
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(276,104): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(276,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(280,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(280,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(281,82): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(281,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(293,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(293,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(294,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(294,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(297,89): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(297,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(298,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(298,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(373,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(373,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(528,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(528,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(545,95): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(545,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(560,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(560,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(574,95): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(574,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(589,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(589,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(603,96): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(603,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(614,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(621,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(625,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(628,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(635,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Level.cpp(639,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Main.cpp
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\CMP303_CourseWork\Main.cpp(95,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+box2d.lib(b2_polygon_shape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_polygon_shape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_body.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_body.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_world.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_world.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_joint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_joint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_chain_circle_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_chain_circle_contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_chain_polygon_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_chain_polygon_contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_circle_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_circle_contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_edge_circle_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_edge_circle_contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_edge_polygon_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_edge_polygon_contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_polygon_circle_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_polygon_circle_contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_polygon_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_polygon_contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_chain_shape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_chain_shape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+box2d.lib(b2_edge_shape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_edge_shape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Animation.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Socket::setBlocking(bool)" (__imp_?setBlocking@Socket@sf@@QEAAX_N@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl sf::IpAddress::toString(void)const " (__imp_?toString@IpAddress@sf@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::IpAddress::IpAddress(void)" (__imp_??0IpAddress@sf@@QEAA@XZ)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::IpAddress::IpAddress(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_??0IpAddress@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator<<(int)" (__imp_??6Packet@sf@@QEAAAEAV01@H@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator<<(float)" (__imp_??6Packet@sf@@QEAAAEAV01@M@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator<<(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_??6Packet@sf@@QEAAAEAV01@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator>>(int &)" (__imp_??5Packet@sf@@QEAAAEAV01@AEAH@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator>>(float &)" (__imp_??5Packet@sf@@QEAAAEAV01@AEAM@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Packet::clear(void)" (__imp_?clear@Packet@sf@@QEAAXXZ)
+    Hint on symbols that are defined and could potentially match:
+      "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Packet::~Packet(void)" (__imp_??1Packet@sf@@UEAA@XZ)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Packet::Packet(void)" (__imp_??0Packet@sf@@QEAA@XZ)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: enum sf::Socket::Status __cdecl sf::TcpSocket::receive(class sf::Packet &)" (__imp_?receive@TcpSocket@sf@@QEAA?AW4Status@Socket@2@AEAVPacket@2@@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: enum sf::Socket::Status __cdecl sf::TcpSocket::send(class sf::Packet &)" (__imp_?send@TcpSocket@sf@@QEAA?AW4Status@Socket@2@AEAVPacket@2@@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: enum sf::Socket::Status __cdecl sf::TcpSocket::connect(class sf::IpAddress const &,unsigned short,class sf::Time)" (__imp_?connect@TcpSocket@sf@@QEAA?AW4Status@Socket@2@AEBVIpAddress@2@GVTime@2@@Z)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::TcpSocket::TcpSocket(void)" (__imp_??0TcpSocket@sf@@QEAA@XZ)
+Level.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::TcpSocket::~TcpSocket(void)" (__imp_??1TcpSocket@sf@@UEAA@XZ)
+D:\3rd Year\303\303_coursework\303_coursework\Coursework\x64\Release\CMP303_CourseWork.exe : fatal error LNK1120: 17 unresolved externals

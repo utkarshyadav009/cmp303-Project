@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CMP105App.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Animation.cpp
+  AudioManager.cpp
+  Collision.cpp
+  GameState.cpp
+  Input.cpp
+  MusicObject.cpp
+  GameObject.cpp
+  SoundObject.cpp
+  TileMap.cpp
+  Vector.cpp
+  Level.cpp
+  Main.cpp
+  Generating Code...
+  CMP105App.vcxproj -> D:\3rd Year\303\coursework\303_coursework\303_coursework\Coursework\x64\Debug\CMP303_CourseWork.exe
