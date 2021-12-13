@@ -19,3 +19,6 @@ coins are placed all over the map collect 10 coins to get a speed boost mushroon
 
 
 github link:- https://github.com/utkarshyadav009/cmp303-Project
+
+
+video demo:- https://www.youtube.com/watch?v=K2iVgn2zQnU
