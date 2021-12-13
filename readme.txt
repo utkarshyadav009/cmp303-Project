@@ -9,7 +9,7 @@ Player Controls:
 UP & DOWN key for acceleration 
 LEFT & RIGHT key for rotation 
 SPACE key for breaks 
-and SHIFT key for boost 
+and LSHIFT key for boost 
 
 
 Game Objective:
