@@ -67,7 +67,7 @@ sf::Vector2f QuadraticPrediction::LocalPath(sf::Vector2f& m0_local_position, sf:
 	a_x = (x_average_velocity_2 - x_average_velocity_1) / (m2_time - m0_time);
 	a_y = (y_average_velocity_2 - y_average_velocity_1) / (m2_time - m0_time);
 
-	// s = s0 + v0t + ½at2
+	// s = s0 + v0t + ï¿½at2
 	x_ = m2_local_position.x + (x_average_velocity_2 * (time - m2_time)) + ((0.5 * a_x) * powf((time - m2_time), 2));
 	y_ = m2_local_position.y + (y_average_velocity_2 * (time - m2_time)) + ((0.5 * a_y) * powf((time - m2_time), 2));
 
@@ -93,11 +93,9 @@ sf::Vector2f QuadraticPrediction::NetworkPath(sf::Vector2f& m0_network_position,
 	a_x = (x_average_velocity_2 - x_average_velocity_1) / (m2_time - m0_time);
 	a_y = (y_average_velocity_2 - y_average_velocity_1) / (m2_time - m0_time);
 
-	// s = s0 + v0t + ½at2
+	// s = s0 + v0t + ï¿½at2
 	x_ = m2_network_position.x + (x_average_velocity_2 * (time - m2_time)) + ((0.5 * a_x) * powf((time - m2_time), 2));
 	y_ = m2_network_position.y + (y_average_velocity_2 * (time - m2_time)) + ((0.5 * a_y) * powf((time - m2_time), 2));
-
-	// porn ahah
 
 	sf::Vector2f network_player_pos(x_, y_);
 	return network_player_pos;
